@@ -6,14 +6,14 @@ Welcome to the Business Insights 360 repository! This project is a comprehensive
 Business Insights 360 is an advanced Power BI solution that provides deep insights into key business functions, helping AtliQ Hardware optimize operations and maximize profitability.
 
 🔹 Features
-Finance View – Revenue, expenses, and profit margin insights.
+Finance View – Revenue, expenses, and profit margin insights.                                         
 Sales View – Product performance and customer analytics.
 Marketing View – Data-driven strategies for targeted marketing.
 Supply Chain View – Key supply chain efficiency metrics.
 Executive View – High-level metrics for leadership decision-making.
 
 📊 Live Dashboard
-<a href = "https://app.powerbi.com/view?r=eyJrIjoiZDk0ZjhmOGEtNjllOC00MmU2LWJlYmItYzNjZDAzYTM3NzcyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Explore the live Power BI dashboard:</a>\
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiZDk0ZjhmOGEtNjllOC00MmU2LWJlYmItYzNjZDAzYTM3NzcyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Explore the live Power BI dashboard:</a>
 
 🏆 Key Achievements
 Customization – Tailored for AtliQ Hardware’s business needs.
